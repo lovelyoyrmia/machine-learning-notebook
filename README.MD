@@ -2,3 +2,4 @@
 
 - Recommendations System
 - Data Analysis
+- Linear Regression
