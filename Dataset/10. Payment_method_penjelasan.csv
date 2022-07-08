@@ -1,0 +1,6 @@
+payment_method_id,payment_method
+1,credit card
+2,debit card
+3,transfer
+4,e-wallet
+5,paylater
